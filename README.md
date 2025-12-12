@@ -11,6 +11,14 @@ This project is part of my learning journey, and I have also documented what I s
 
 ## 🚀 Features
 
+## 📌 Basic Workflow
+
+1. Patient books appointment → receives token  
+2. Doctor consults → prescribes tests/medicines  
+3. Nurse performs tests → uploads report → gives medicine  
+4. Patient views updated medical history anytime  
+
+
 ### 👨‍⚕️ Patient Portal
 - Register & get a permanent Patient ID  
 - Book appointments & receive token number  
@@ -33,24 +41,4 @@ This project is part of my learning journey, and I have also documented what I s
 - Monitor system activity  
 
 ---
-
-## 📌 Basic Workflow
-
-1. Patient books appointment → receives token  
-2. Doctor consults → prescribes tests/medicines  
-3. Nurse performs tests → uploads report → gives medicine  
-4. Patient views updated medical history anytime  
-
----
-
-## 🛠️ Tech Stack
-
-- **HTML, CSS, JavaScript**  
-- **LocalStorage** for data persistence (Demo Mode)  
-- Fully frontend-based simulation of HMS workflow  
-
----
-
-## 📁 Folder Structure
-
 
